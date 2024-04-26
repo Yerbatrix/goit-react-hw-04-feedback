@@ -1,0 +1,10 @@
+.counter {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.counter p {
+  margin: 5px 0;
+}
